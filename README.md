@@ -5,5 +5,4 @@
 - 🔭 currently working on **multiple Spring Boot projects**
 - 🌱 focusing on **web development and business applications**
 - 🧑‍🔬 currently putting my Java 11 theoretical knowledge into practice
-- 📨 find me on LinkedIn **https://www.linkedin.com/in/marcel-lew96/**
 
