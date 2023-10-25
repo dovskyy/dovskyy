@@ -4,5 +4,5 @@
 
 - 🔭 currently working on **multiple Spring Boot projects**
 - 🌱 focusing on **web development and business applications**
-- 🧑‍🔬 currently putting my Java 11 theoretical knowledge into practice
+- 🧑‍🔬 currently putting my Java theoretical knowledge into practice
 
