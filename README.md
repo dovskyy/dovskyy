@@ -2,7 +2,6 @@
 
 <h3>fancy list </h3>
 
-- 🔭 currently working on **multiple Spring Boot projects**
-- 🌱 focusing on **web development and business applications**
-- 🧑‍🔬 currently putting my Java theoretical knowledge into practice
+- working as a software dev for @Visa
+- lewcode.pl <- in case you need a website
 
