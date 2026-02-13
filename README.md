@@ -3,5 +3,5 @@
 <h3>fancy list </h3>
 
 - working as a software dev for @Visa
-- lewcode.pl <- in case you need a website
+- https://lewcode.pl <- in case you need a website
 
